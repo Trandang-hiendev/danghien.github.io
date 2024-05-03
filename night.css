@@ -1,0 +1,34 @@
+.aboutme {
+    background-color: #000
+}
+
+* {
+    color: #fff
+}
+
+:root {
+    --pastel-dark: transparent
+}
+
+html body {
+    background-image: url(./images/118d6b80f0f5e9e132b0f9baa0717567.jpg);
+    background-size: cover
+}
+
+.discord--card__border {
+    background-image: var(--pastel-dark)
+}
+
+.discord--card__border .inner {
+    background-image: var(--pastel-dark)
+}
+
+.badges {
+    background-color: #000;
+    border-right: 10px solid #000;
+    border-left: 10px solid #000
+}
+
+.inner--contents__video {
+    background-image: url(./images/coverr.gif)
+}
